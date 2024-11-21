@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://www.namecraft.site</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.namecraft.site/en" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.namecraft.site/zh" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.namecraft.site/ja" />
+  </url>
+
+  <!-- Learn More Pages -->
+  <url>
+    <loc>https://www.namecraft.site/learn-more</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.namecraft.site/en/learn-more" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.namecraft.site/zh/learn-more" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.namecraft.site/ja/learn-more" />
+  </url>
+
+  <url>
+    <loc>https://www.namecraft.site/learn-more/chinese</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.namecraft.site/en/learn-more/chinese" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.namecraft.site/zh/learn-more/chinese" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.namecraft.site/ja/learn-more/chinese" />
+  </url>
+
+  <url>
+    <loc>https://www.namecraft.site/learn-more/english</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.namecraft.site/en/learn-more/english" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.namecraft.site/zh/learn-more/english" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.namecraft.site/ja/learn-more/english" />
+  </url>
+
+  <url>
+    <loc>https://www.namecraft.site/learn-more/japanese</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.namecraft.site/en/learn-more/japanese" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.namecraft.site/zh/learn-more/japanese" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.namecraft.site/ja/learn-more/japanese" />
+  </url>
+
+  <!-- Language-specific pages -->
+  <url>
+    <loc>https://www.namecraft.site/en</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.namecraft.site/zh</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.namecraft.site/ja</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Support Pages -->
+  <url>
+    <loc>https://www.namecraft.site/support</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.namecraft.site/en/support" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.namecraft.site/zh/support" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.namecraft.site/ja/support" />
+  </url>
+
+  <!-- Legal Pages -->
+  <url>
+    <loc>https://www.namecraft.site/privacy</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.namecraft.site/terms</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
